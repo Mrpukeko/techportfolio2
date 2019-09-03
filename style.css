@@ -6,7 +6,6 @@
 
 html {
     background-color: #119da4;
-
     color: black;
 
     font-size: 1.3em;
@@ -76,23 +75,24 @@ li:last-child {
 
 .nameoflist {
     width: 80%;
-    border: 3px solid #84704e;
-    background-color: #859f63;
+    border: 3px solid #;
+    background-color: #6d9dc5;
     margin: 0 auto;
-    font-size: 2em;
+    font-size: 3em;
     border-radius: 25px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 
 
 }
 
 .thelist {
     width: 80%;
-    border: 3px solid #84704e;
-    background-color: #859f63;
+    border: 3px solid #;
+    background-color: #6d9dc5;
     margin: 0 auto;
-    font-size: 1.3em;
+    font-size: 0em;
     border-radius: 25px;
-
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -139,41 +139,98 @@ videopos {
 
 .animationthingo {
     width: 80%;
-    border: 3px solid #;
+    border: 3px solid ;
     background-color: #6d9dc5;
     margin: 0 auto;
     font-size: 2.5em;
     border-radius: 25px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    
-    
+
+
 }
+
 img {
-  width: 600px;
-  height: 500px;
+    width: 600px;
+    height: 500px;
 }
+
 body {
- background-image: url(giphy.gif);
- background-color: #cccccc;
+    background-image: url(snowfalling%20gif.gif);
+    background-color: #cccccc;
 }
 
 .title3 {
-     width: 80%;
-    border: 3px solid #;
+    width: 80%;
+    border: 3px solid ;
     background-color: #6d9dc5;
     margin: 0 auto;
     font-size: 3em;
     border-radius: 25px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+
 }
 
 .manipulatedimages {
     width: 80%;
-    border: 3px solid #;
+    border: 3px;
     background-color: #6d9dc5;
     margin: 0 auto;
-    font-size: 3em;
+    font-size: 1.8em;
     border-radius: 25px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
+.imagesize2 {
+    width: 90%;
+    height: 70%;
+}
+
+.julianoppie {
+    width: 80%;
+    border: 3px;
+    background-color: #6d9dc5;
+    margin: 0 auto;
+    font-size: 1.8em;
+    border-radius: 25px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.imagesize3 {
+    width: 600px;
+    height: 750px;
+}
+
+.randomtitle{
+       width: 80%;
+    border: 3px;
+    background-color: #6d9dc5;
+    margin: 0 auto;
+    font-size: 1.8em;
+    border-radius: 25px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);    
+}
+
+.music {
+      width: 80%;
+    border: 3px;
+    background-color: #6d9dc5;
+    margin: 0 auto;
+    font-size: 1em;
+    border-radius: 25px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); 
+    
+}
+
+.microbittitle {
+     width: 80%;
+    border: 3px;
+    background-color: #6d9dc5;
+    margin: 0 auto;
+    font-size: 2.5em;
+    border-radius: 25px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); 
+}
+
+.microimage1 {
+    
+}
